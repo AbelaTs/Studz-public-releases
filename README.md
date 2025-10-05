@@ -1,13 +1,6 @@
 # 📚 Studz - Student Schedule & Study Planner
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-blue?style=for-the-badge" alt="Platform">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
-</div>
-
-<div align="center">
   <h3>🎯 A modern, elegant Flutter application designed to help students manage their class schedules, exam schedules, and study sessions with intelligent reminders.</h3>
 </div>
 
