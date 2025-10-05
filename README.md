@@ -69,7 +69,7 @@
 
 ## 📋 Requirements
 
-- **Android**: API level 21 (Android 5.0) or higher
+- **Android**: API level 23 (Android 6.0) or higher
 - **iOS**: iOS 11.0 or higher
 - **Permissions**:
   - Notification permissions (for reminders)
@@ -77,7 +77,7 @@
 
 ## 📱 Supported Platforms
 
-- ✅ **Android** (API 21+)
+- ✅ **Android** (API 23+)
 - ✅ **iOS** (iOS 11.0+)
 - 🔄 **Web** (Coming Soon)
 - 🔄 **Desktop** (Coming Soon)
