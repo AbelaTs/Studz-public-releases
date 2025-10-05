@@ -53,7 +53,6 @@
 - **Study Reminders**: Receive notifications before study sessions to stay on track
 - **Customizable Timing**: Set reminder intervals (15, 30, 60 minutes, 2 hours, or 1 day before)
 - **Local Notifications**: Works offline with reliable local notification system
-- **Smart Scheduling**: Intelligent notification timing based on your schedule patterns
 
 ### 🎨 **Modern UI/UX**
 
