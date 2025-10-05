@@ -71,7 +71,6 @@
 
 - **Android**: API level 21 (Android 5.0) or higher
 - **iOS**: iOS 11.0 or higher
-- **Storage**: 50MB available space
 - **Permissions**:
   - Notification permissions (for reminders)
   - Storage permissions (for data persistence)
