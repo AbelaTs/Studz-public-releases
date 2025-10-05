@@ -1,4 +1,4 @@
-# 📚 Studz - Student Schedule & Study Planner
+# 📚 Studz - Your Smart Academic Companion
 
 <div align="center">
   <h3>🎯 Introducing the definitive academic management tool. This modern, elegant application provides a centralized hub for all your class schedules, exam schedules, and study plans. With proactive, intelligent reminders tailored to your unique pace, it’s designed not just to track your schedule, but to optimize your success.</h3>
